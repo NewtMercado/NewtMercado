@@ -1,3 +1,7 @@
+<!-- GIF HEADER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+
+
 <h1 align="center">Hola, bienvenid@ a mi GitHub <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Newton Mercado</h1>
 
 <h3 align="center">
